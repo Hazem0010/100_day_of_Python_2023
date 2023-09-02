@@ -1,0 +1,6 @@
+print("Hello, Hazem!")
+print('Hello "Malek"')
+print("Hello 'Malek'")
+print("I'm Hazem\nI'm 34 years old!\n.\n..\n...")
+print("hello " + "Malek")
+print("hello" + " " +"Hazem")
